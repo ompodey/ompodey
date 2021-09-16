@@ -7,7 +7,7 @@
     </p>
 <h3 align="center"> An always hungry for knowledge person.😜</h3>
 <p align="center">
-        <img  src="https://user-images.githubusercontent.com/84179156/133623470-f0adbdb2-7af5-4ed1-b226-91bc7e41a3cd.png" width=370  alt="s">
+        <img  src="https://user-images.githubusercontent.com/84179156/133628924-95e99df0-f008-4d0d-bca2-07cec8d2a631.png" width=370  alt="s">
 </p>
 <p align="center">
  <a href="https://www.google.com" target="_blank">
