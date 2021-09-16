@@ -11,16 +11,16 @@
 </p>
 <p align="center">
  <a href="https://www.google.com" target="_blank">
-     <img  src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" width=100  alt="s">
+     <img  src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" width=80  alt="s">
     </a>
         <a href="https://www.google.com" target="_blank">
-                <img  src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=70  alt="s">
+                <img  src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=40  alt="s">
         </a>
         <a href="mailto:ompodey@gmail.com" target="_blank">
-                <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width=110  alt="s">
+                <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width=90  alt="s">
                 <a/>
             <a href="mailto:ompodey@gmail.com" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width=70  alt="s">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width=45  alt="s">
                 <a/>
                 
-        </p>
+        
