@@ -23,11 +23,10 @@
             <a href="https://www.instagram.com/ompodey/" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width=45  alt="s">
                 <a/>
+                    </p>
                 
 
-
-<p align="center">
-&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ompodey&show_icons=true&locale=en" alt="ompodey" /></p>
-
+                    
+ <h6 align="center"> Some of my statictics: </h6>
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ompodey&" alt="ompodey" /></p>
