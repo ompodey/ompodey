@@ -27,6 +27,4 @@
                 
 
                     
- <h6 align="center"> Some of my statictics: </h6>
-<p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ompodey&" alt="ompodey" /></p>
+
