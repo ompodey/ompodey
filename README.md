@@ -6,7 +6,7 @@
     </a>
     </p>
 <h3 align="center"> An always hungry for knowledge person.😜</h3>
-<h5 align="center"> I am a software developer with data scientist enthusiast. I am always been a hunger for knowledge person. I have developed various projects based on Python, C++, machine learning, Ai, Html, Css, etc. along with cloud computing skills and API technologies giving me fruitful experience in developing new tech areas. Looking forward to creating a  new techie future for mankind.</h5>
+<h5 align="center"> I am a software developer with data scientist enthusiast. I have always been a hunger for knowledge person. I have developed various projects based on Python, C++, machine learning, Ai, Html, Css, etc., along with cloud computing skills and API technologies, giving me fruitful experience in developing new tech areas. I am looking forward to creating a new techie future for humanity.</h5>
 <p align="center">
         <img  src="https://user-images.githubusercontent.com/84179156/133628924-95e99df0-f008-4d0d-bca2-07cec8d2a631.png" width=370  alt="s">
 </p>
