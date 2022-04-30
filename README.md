@@ -2,11 +2,11 @@
 <h2 align="center"> Warm Greetings!</h2>
 <p align="center">
         <a href="https://www.google.com" target="_blank">
-     <img  src="https://user-images.githubusercontent.com/84179156/133618156-57909dbc-e9cb-4aee-8ab7-9035bac5b712.jpg" width=370  alt="s">
+     <img  src="https://user-images.githubusercontent.com/84179156/166104213-78635d79-abce-4ced-9cab-3257d1f4ecd6.jpg" width=370  alt="s">
     </a>
     </p>
 <h3 align="center"> An always hungry for knowledge person.😜</h3>
-<h5 align="center"> I am a software developer with data scientist enthusiast. I have always been a hunger for knowledge person. I have developed various projects based on Python, C++, machine learning, Ai, Html, Css, etc., along with cloud computing skills and API technologies, giving me fruitful experience in developing new tech areas. I am looking forward to creating a new techie future for humanity.</h5>
+<h5 align="center"> I am a software developer with data science enthusiast. I have always been a hunger for knowledge person. I have developed various projects based on Python, C++, machine learning, Ai, Html, Css, etc., along with cloud computing skills and API technologies, giving me a fruitful experience in developing new tech. I am looking forward to create a new techie future for humanity.</h5>
 <p align="center">
         <img  src="https://user-images.githubusercontent.com/84179156/133628924-95e99df0-f008-4d0d-bca2-07cec8d2a631.png" width=370  alt="s">
 </p>
@@ -26,5 +26,6 @@
                     </p>
                 
 
-                    
+   
+                 
 
